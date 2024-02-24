@@ -1,2 +1,2 @@
 # waitingsystem
-a simple waiting management system backen
+a simple waiting management system backend
